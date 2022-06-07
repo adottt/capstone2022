@@ -2,6 +2,8 @@
 
 ## 4 Adot(에이닷)
 - AR 가구조립 어플리케이션
+- [GitHub Link](https://github.com/adottt/finalcapstone)
+- [시연동영상](https://www.youtube.com/watch?v=rqpna9mBjRc)
 - 지도교수: 조세홍
 ## 5 AmuseBrew
 - 3D 스릴러 게임 
